@@ -39,3 +39,11 @@ Whether users need to convert PYUSD into tokens on other networks or use their e
 - Select Payment Method: Users choose between paying with PYUSD or converting from other tokens.
 - Seamless Approval and Payment: The platform handles conversions, approvals, and transaction submissions automatically, allowing users to pay with PYUSD in just a few clicks.
 
+
+## Live Demo
+
+Please Note:
+- The live demo is available on all mainnet chains. I.E... Its on mainnet!
+- Live demo may face failure due to insufficient gas funds/balance in our server so please ignore if txs fail. This is currently in testing and prototype phase. I hope you understand!
+
+https://pay-rails.vercel.app/ETHEREUM/None/PYUSD/None
